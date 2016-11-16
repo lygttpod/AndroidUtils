@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 
 /**
  * Created by allen on 2016/11/15.

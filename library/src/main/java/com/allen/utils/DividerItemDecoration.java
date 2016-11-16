@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 /*
  * Copyright (C) 2014 The Android Open Source Project
  *

@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

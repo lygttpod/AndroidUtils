@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

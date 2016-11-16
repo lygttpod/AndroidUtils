@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

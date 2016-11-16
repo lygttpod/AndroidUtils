@@ -1,4 +1,4 @@
-package com.allen.library;
+package com.allen.utils;
 
 import android.app.Activity;
 import android.content.ComponentName;
